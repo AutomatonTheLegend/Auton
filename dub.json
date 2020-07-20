@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"autom"
+	],
+	"copyright": "Copyright © 2020, autom",
+	"dependencies": {
+		"derelict-sdl2": "~>2.1.4"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "auton"
+}
